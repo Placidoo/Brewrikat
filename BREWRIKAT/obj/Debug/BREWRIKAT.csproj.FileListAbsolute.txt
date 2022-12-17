@@ -1,0 +1,13 @@
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\bin\Debug\BREWRIKAT.exe.config
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\bin\Debug\BREWRIKAT.exe
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\bin\Debug\BREWRIKAT.pdb
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.csproj.AssemblyReference.cache
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.landingPage.resources
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.Properties.Resources.resources
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.csproj.GenerateResource.cache
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.csproj.CoreCompileInputs.cache
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.exe
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.pdb
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.mainPage.resources
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.shoppingCart.resources
+C:\Users\joedm\source\repos\BREWRIKAT\BREWRIKAT\obj\Debug\BREWRIKAT.orderComplete.resources
